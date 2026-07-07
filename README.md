@@ -49,7 +49,7 @@ PG Life is a PHP-based property rental web application that helps users discover
 4. Update the database credentials if needed in includes/database_connect.php.
 
 5. Open the project in your browser:
-   - http://localhost/pglife/
+   - https://pglifeproject.byethost7.com/
 
 ## React App Setup
 
